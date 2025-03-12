@@ -9,3 +9,5 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+Link to keep salary low initially: [Keep salary low initially](../lessons-learned/keep-salary-low-initially)
