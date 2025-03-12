@@ -4,3 +4,6 @@ nav:
   - Lessons learned:
     - Keep salary low initially: lessons-learned/keep-salary-low-initially
 theme: readthedocs
+plugins:
+  - search
+  - mermaid2
