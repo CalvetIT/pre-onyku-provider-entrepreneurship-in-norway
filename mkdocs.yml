@@ -1,6 +1,8 @@
 site_name: Entrepreneurship in Norway
-site_url: https://onyku.com/pre-onyku-provider-entrepreneurship-in-norway
+repo_url: https://github.com/CalvetIT/pre-onyku-provider-entrepreneurship-in-norway
+edit_uri: edit/main/docs/
 nav:
+  - Onyku website: https://onyku.com
   - Home: index.md
   - Lessons learned:
     - Keep salary low initially: lessons-learned/keep-salary-low-initially
