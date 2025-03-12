@@ -10,4 +10,4 @@ graph TD;
     C-->D;
 ```
 
-Link to keep salary low initially: [Keep salary low initially](../lessons-learned/keep-salary-low-initially)
+Link to keep salary low initially: [Keep salary low initially](../lessons-learned/keep-salary-low-initially.md)
