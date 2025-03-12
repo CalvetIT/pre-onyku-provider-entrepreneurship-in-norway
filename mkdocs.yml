@@ -1,4 +1,5 @@
 site_name: Entrepreneurship in Norway
+site_url: https://onyku.com/pre-onyku-provider-entrepreneurship-in-norway
 nav:
   - Home: index.md
   - Lessons learned:
